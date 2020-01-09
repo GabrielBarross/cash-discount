@@ -20,6 +20,8 @@
     "eslint-config-vtex-react": "^5.1.0",
     "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
-    "typescript": "3.5.2"
+    "typescript": "3.7.3",
+    "vtex.store": "http://vtex.vteximg.com.br/_v/public/typings/v1/vtex.store@2.80.0/public/@types/vtex.store",
+    "vtex.render-runtime": "http://vtex.vteximg.com.br/_v/public/typings/v1/vtex.render-runtime@8.88.0/public/@types/vtex.render-runtime"
   }
 }
